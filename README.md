@@ -21,11 +21,17 @@ Controle de possiveis manutenções do veículo
 ## Tecnologias usadas no desenvolvimento
 
 Spring Boot
+
 TypeScript
+
 Angular
+
 MongoDB
+
 Postman
+
 Figma
+
 
 ## Funcionalidades 💻
 - Os usuários devem ser capazes de visualizar todos os gastos.
@@ -43,10 +49,10 @@ Foi desenvolvido um protótipo do produto com o intuito de auxiliar no desenvolv
 Segue o link do [FIGMA](https://www.figma.com/proto/qiTKOkZHn68bZvXa71aeDm/Prototipo-APP?node-id=0-1&t=dVvPtcVMCNq54KIp-1)
 
 ## Stakeholders 👥
--Dev e idealizador  Felipe Castelhano
+-Dev e idealizador - Felipe Castelhano
 
--Mentor Eduardo Mangeli
+-Mentor -Eduardo Mangeli
 
--Mentor Rafael Cruz
+-Mentor -Rafael Cruz
 
--Mentor  Alexandre Rangel
+-Mentor  -Alexandre Rangel
