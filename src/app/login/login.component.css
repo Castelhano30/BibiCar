@@ -1,0 +1,73 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  margin: auto;
+  padding: auto;
+  background-color: #161622;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+}
+
+.btn_login {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.login{
+  background-color: rgba(255, 255, 255, 0.9);
+  top: 50%;
+  left: 50%;
+  padding: 80px;
+  border-radius: 15px;
+  color: #000000;
+}
+
+input{
+  padding: 15px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+}
+button{
+  background-color: #84BF6F;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 15px;
+
+}
+button:hover{
+  background-color: rgb(71, 209, 16);
+  cursor: pointer;
+}
+
+.caixa_email
+{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  border: 1px solid #000000
+}
+
+.caixa_senha{
+  border: 1px solid #000000
+}
+
+.div_login{
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

@@ -38,18 +38,18 @@ a:hover{
   border-top: 0.4px solid #fcfcfc;
 }
 
-.conteudo{
+.conteudo-detalhes-veiculo{
   margin-top: 30px;
   margin-left: 5px;
 }
 
-.titulo-carros{
-  color: #7E848D;
+.texto-detalhes-veiculo{
+  color: #e9e9e9;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: large;
 }
 
-.btn-adicionar-carro{
+.btn-adicionar-gastos{
   background-color: #84BF6F;
   border: none;
   padding: 10px;
@@ -58,12 +58,37 @@ a:hover{
   color: white;
   font-size: 15px;
   margin-bottom: 30px;
+}
 
+.btn-editar-veiculo{
+  background-color: #61b0dd;
+  border: none;
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.btn-excluir{
+  background-color: #EA5858;
+  border: none;
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 30px;
 }
 
 button:hover{
-  background-color: rgb(71, 209, 16);
   cursor: pointer;
 }
 
+.container-btn{
+  margin-top: 20px;
 
+}
