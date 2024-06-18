@@ -1,27 +1,58 @@
-# BibiCar
+# Documentação BibiCar 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.6.
+## Ideação do Pojeto 🤯
 
-## Development server
+A concepção do projeto BIBICAR originou-se de uma necessidade pessoal. Identifiquei a demanda por um meio simplificado de monitorar as despesas relacionadas aos meus veículos, o que motivou a criação de um aplicativo/site que pudesse auxiliar nesse controle.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Uma figura fundamental para a validação dessa ideia foi o professor Alexandre Rangel, que prestou assistência ao longo de todo o processo, desde a validação inicial da ideia até o desenvolvimento do protótipo.
 
-## Code scaffolding
+## Descrição do projeto 🚗
+O BibiCar é um aplicativo/site que tem como objetivo ajudar donos de veículos a ter um controle maior das despesas de combustível, manutenção e outros possíveis gastos que um veículo pode gerar.
+Controle financeiro do seu veículo de forma mais simples e eficaz. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto visa atender e auxiliar todas as pessoas que possuem veículos, com o objetivo de proporcionar um controle financeiro eficiente, bem como a gestão da manutenção e do desgaste dos seus veículos.
 
-## Build
+# Propostas de valor 💎
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Controle do gasto do seu veículo / um melhor controle financeiro pessoal
+Controle de possiveis manutenções do veículo
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tecnologias usadas no desenvolvimento
 
-## Running end-to-end tests
+Spring Boot
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+TypeScript
 
-## Further help
+Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MongoDB
+
+Postman
+
+Figma
+
+
+## Funcionalidades 💻
+- Os usuários devem ser capazes de visualizar todos os gastos.
+- Os usuários devem ser capazes de se registrar na plataforma.
+- Os usuários devem ser capazes de efetuar o Login na plataforma.
+- O sistema deve possuir uma área para visualização dos seus gastos
+- O sistema deve ser possuir uma forma de receber os gastos (dados) dos usuários.
+- O sistema deve possuir uma pagina de perfil com os dados do usuário.
+- O usuário deve ser capaz de acessar a pagina de perfil.
+
+## Protótipo 
+
+Foi desenvolvido um protótipo do produto com o intuito de auxiliar no desenvolvimento e amadurecimento da ideia como um todo.
+
+Segue o link do [FIGMA](https://www.figma.com/proto/qiTKOkZHn68bZvXa71aeDm/Prototipo-APP?node-id=0-1&t=dVvPtcVMCNq54KIp-1)
+
+## Stakeholders 👥
+-Dev e idealizador - Felipe Castelhano
+
+-Mentor -Eduardo Mangeli
+
+-Mentor -Rafael Cruz
+
+-Mentor  -Alexandre Rangel
