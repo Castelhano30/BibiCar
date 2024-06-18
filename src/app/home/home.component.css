@@ -79,4 +79,17 @@ button:hover{
 
 }
 
+.card-carros{
+  background-color: #fcfcfc;
+  padding: 15px;
+  margin-left: 50px;
+  margin-right: 1600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2{
+  font-family: 'Courier New', Courier, monospace;
+}
 
