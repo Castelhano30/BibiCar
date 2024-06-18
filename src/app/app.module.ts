@@ -8,6 +8,7 @@ import { CadastroComponent } from './cadastro/cadastro.component';
 import { HomeComponent } from './home/home.component';
 import { DetalhesVeiculoComponent } from './detalhes-veiculo/detalhes-veiculo.component';
 import { AdicionarGastoComponent } from './adicionar-gasto/adicionar-gasto.component';
+import { AdicionarVeiculoComponent } from './adicionar-veiculo/adicionar-veiculo.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AdicionarGastoComponent } from './adicionar-gasto/adicionar-gasto.compo
     CadastroComponent,
     HomeComponent,
     DetalhesVeiculoComponent,
-    AdicionarGastoComponent
+    AdicionarGastoComponent,
+    AdicionarVeiculoComponent
   ],
   imports: [
     BrowserModule,
